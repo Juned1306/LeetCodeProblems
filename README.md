@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Juned1306/LeetCodeProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/Juned1306/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Juned1306/LeetCodeProblems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Juned1306/LeetCodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Juned1306/LeetCodeProblems/tree/master/0876-middle-of-the-linked-list) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Juned1306/LeetCodeProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/Juned1306/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Juned1306/LeetCodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Juned1306/LeetCodeProblems/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -23,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Juned1306/LeetCodeProblems/tree/master/0234-palindrome-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Juned1306/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Juned1306/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
